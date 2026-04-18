@@ -54,4 +54,4 @@
 
 ### 📫 Connect with me
 
-* LinkedIn: https://linkedin.com/in/YOUR-LINK
+* LinkedIn: https://www.linkedin.com/in/kartik-singhal-a26984313/
