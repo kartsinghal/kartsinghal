@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Kartik Singhal
+# 👋 Hi, I'm Kartik Singhal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%94%A5;ML+%26+Web+Developer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%94%A5;ML+%26+Web+Developer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kartsinghal&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kartsinghal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -18,13 +18,13 @@
 - 💻 Building **Web + ML Projects**
 - 🚀 Exploring **MERN Stack Development**
 - 🗄️ Working with **MongoDB & Mongoose**
-- 🎯 Focused on building real-world software
-- 💡 Interested in solving problems through technology
+- 🎯 Focused on becoming a strong **Software Developer**
+- 💡 Interested in solving real-world problems through technology
 - ⚡ Fun fact: I love turning ideas into working projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -66,11 +66,148 @@
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
-```text
-🌐 Full Stack Web Applications
-🤖 Machine Learning Projects
-💡 Hackathon Projects
-🧩 Problem Solving
-🚀 Real-World Software Solutions
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+Building modern web applications using:
+
+**React • Node.js • Express • MongoDB**
+
+</td>
+
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Exploring machine learning and integrating intelligent features into real-world applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💡 Hackathon Projects
+
+Working on innovative solutions and collaborative projects.
+
+</td>
+
+<td width="50%">
+
+### 🧩 Problem Solving
+
+Improving programming and problem-solving skills through consistent practice.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kartsinghal/YOUR-REPO-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartsinghal&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kartsinghal/YOUR-REPO-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartsinghal&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartsinghal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kartsinghal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartsinghal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kartsinghal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartsinghal&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kartsinghal/kartsinghal/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartsinghal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kartik-singhal-a26984313/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
