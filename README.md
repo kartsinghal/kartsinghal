@@ -110,44 +110,6 @@ Improving programming and problem-solving skills through consistent practice.
 
 ---
 
-# 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kartsinghal/YOUR-REPO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartsinghal&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/kartsinghal/YOUR-REPO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartsinghal&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kartsinghal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kartsinghal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartsinghal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
