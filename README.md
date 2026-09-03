@@ -162,17 +162,7 @@ Improving programming and problem-solving skills through consistent practice.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartsinghal&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kartsinghal/kartsinghal/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartsinghal&theme=tokyo-night&hide_border=true&area=true&custom_title=Kartik%27s%20Contribution%20Activity" />
 
 </div>
 
